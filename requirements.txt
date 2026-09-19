@@ -2,6 +2,6 @@ pandas
 numpy
 scikit-learn
 statsmodels
-shap
 openpyxl
 matplotlib
+python-dotenv

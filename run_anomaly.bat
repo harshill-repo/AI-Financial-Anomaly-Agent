@@ -1,0 +1,26 @@
+@echo off
+echo Starting the AI Financial Anomaly Pipeline...
+
+echo 1. Activating Virtual Environment...
+call venv\Scripts\activate
+
+echo 2. Generating Data...
+python generate_data.py
+
+echo 3. Ingesting Data...
+python data_ingest.py
+
+echo 4. Processing Data...
+python process_data.py
+
+echo 5. Running AI Anomaly Detection...
+python detect_anomalies.py
+
+echo 6. Generating Dashboard and Reports...
+python generate_report.py
+
+echo 7. Sending Email Alert...
+python send_email.py
+
+echo Pipeline Complete! You can close this window.
+pause
