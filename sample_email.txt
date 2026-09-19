@@ -1,0 +1,18 @@
+Subject: [Alert] Financial Anomaly Detected on 2026-09-20
+To: finance-team@company.com
+From: AI Anomaly Agent
+
+Dear Team,
+
+The AI anomaly detection agent has finished its daily run and identified the following unusual financial activity:
+
+Total anomalies detected: 3
+
+Date: 2025-04-11 | Revenue: 3317.38 | Reason: Flagged by AI pipeline.
+Date: 2025-07-20 | Revenue: 486.63 | Reason: Flagged by AI pipeline.
+Date: 2025-09-29 | Revenue: 866.84 | Reason: Flagged by AI pipeline.
+
+Please check the attached 'anomaly_report.xlsx' and 'anomaly_dashboard.png' for full details.
+
+Regards,
+Automated AI Agent
