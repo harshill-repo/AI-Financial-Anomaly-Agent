@@ -7,3 +7,4 @@ An end-to-end anomaly detection system for financial data using Python and machi
 * **Data Processing:** Automated ingestion and cleaning of daily revenue data using Pandas and NumPy.
 * **Multi-Model AI:** Utilized Z-Score, IQR, EWMA, and Scikit-Learn's Isolation Forest to detect hidden anomalies.
 * **Automated Reporting:** Generates a clean Excel report, a data visualization dashboard (matplotlib), and a drafted email alert for stakeholders.
+* * **One-Click Automation:** Engineered a Windows Batch (.bat) script to execute the entire end-to-end pipeline automatically.
